@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Database
+theft_detection.db
+
+# Security, Alerts & Configs
+alerts/
+cameras.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project exclude paths
+/test02/

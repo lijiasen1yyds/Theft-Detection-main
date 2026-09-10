@@ -1,0 +1,849 @@
+2026-09-10 16:32:42,571 - video_behavior_detector - INFO - 视频行为检测器初始化完成
+2026-09-10 16:32:42,607 - video_behavior_detector - INFO - 姿态检测器初始化成功
+2026-09-10 16:32:45,720 - video_behavior_detector - INFO - 成功加载标准XGBoost模型
+2026-09-10 16:32:45,720 - video_behavior_detector - WARNING - 增强XGBoost模型文件不存在: models\enhanced\enhanced_theft_xgb_model.pkl
+2026-09-10 16:32:45,720 - video_behavior_detector - INFO - 尝试加载行为分类器: models/theft_xgb_model.pkl
+2026-09-10 16:32:45,737 - video_behavior_detector - INFO - 检测到模型配置字典，尝试初始化模型
+2026-09-10 16:32:45,738 - video_behavior_detector - WARNING - 使用通用模型包装器代替未知类型: unknown
+2026-09-10 16:32:45,738 - video_behavior_detector - INFO - 自适应权重系统已启用
+2026-09-10 16:32:45,738 - video_behavior_detector - INFO - 零售环境检测已启用
+2026-09-10 16:34:15,665 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:17,076 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:18,454 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:18,476 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:20,013 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:20,033 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:21,538 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:21,559 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:31,163 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:32,431 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:33,731 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:35,021 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:36,302 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:37,664 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:38,973 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:41,654 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:43,229 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:43,249 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:44,713 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:50,819 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:52,145 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:53,475 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:54,859 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:58,586 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:34:59,935 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:01,317 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:03,897 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:05,328 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:06,767 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:08,292 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:08,313 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:09,971 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:11,620 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:11,646 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:13,245 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:14,793 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:46,498 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:49,270 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:50,617 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:51,986 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:52,008 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:53,380 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:56,009 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:57,316 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:58,618 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:35:59,912 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:02,619 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:03,966 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:05,300 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:06,623 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:07,937 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:09,245 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:10,563 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:11,874 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:13,184 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:21,533 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:22,886 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:24,324 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:25,786 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:25,807 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:27,180 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:28,496 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:29,786 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:31,089 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:58,104 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:36:59,399 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:37:01,942 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:37:22,509 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:37:23,783 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:37:30,941 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:37:30,961 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:37:37,104 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:37:38,381 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:38:28,823 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:38:30,122 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:38:32,768 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:38:36,740 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:38:38,009 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:39:24,549 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:39:25,870 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:39:27,257 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:39:27,836 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:39:27,945 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:39:30,489 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:39:31,804 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 16:41:23,608 - video_behavior_detector - INFO - 视频行为检测器初始化完成
+2026-09-10 16:41:23,618 - video_behavior_detector - INFO - 姿态检测器初始化成功
+2026-09-10 16:41:23,654 - video_behavior_detector - INFO - 成功加载标准XGBoost模型
+2026-09-10 16:41:23,656 - video_behavior_detector - WARNING - 增强XGBoost模型文件不存在: models\enhanced\enhanced_theft_xgb_model.pkl
+2026-09-10 16:41:23,656 - video_behavior_detector - INFO - 尝试加载行为分类器: models/theft_xgb_model.pkl
+2026-09-10 16:41:23,673 - video_behavior_detector - INFO - 检测到模型配置字典，尝试初始化模型
+2026-09-10 16:41:23,673 - video_behavior_detector - WARNING - 使用通用模型包装器代替未知类型: unknown
+2026-09-10 16:41:23,674 - video_behavior_detector - INFO - 自适应权重系统已启用
+2026-09-10 16:41:23,674 - video_behavior_detector - INFO - 零售环境检测已启用
+2026-09-10 16:41:23,686 - video_behavior_detector - INFO - 视频信息: 888x658, 30.0 FPS, 714 总帧数
+2026-09-10 16:41:24,029 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:24,033 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:24,118 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:24,322 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:24,515 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:24,592 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:24,794 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:24,998 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:25,082 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:25,287 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:25,485 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:25,565 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:25,779 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:25,990 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:26,081 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:26,273 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:26,465 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:26,466 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:26,550 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:26,745 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:26,941 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:27,028 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:27,256 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:41:27,257 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.91)
+2026-09-10 16:41:27,257 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:27,257 - video_behavior_detector - INFO - 检测到left手确认的伸展动作
+2026-09-10 16:41:27,449 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.02)
+2026-09-10 16:41:27,450 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:27,535 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:41:27,535 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.05)
+2026-09-10 16:41:27,536 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:27,724 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:41:27,726 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.21)
+2026-09-10 16:41:27,726 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:27,913 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:41:27,914 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.08)
+2026-09-10 16:41:27,914 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:28,009 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:41:28,009 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.88)
+2026-09-10 16:41:28,010 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:28,216 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:41:28,216 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.87)
+2026-09-10 16:41:28,217 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:28,411 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:41:28,412 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.85)
+2026-09-10 16:41:28,413 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:28,490 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.88)
+2026-09-10 16:41:28,490 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:28,681 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.80)
+2026-09-10 16:41:28,682 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:28,884 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:28,885 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.78)
+2026-09-10 16:41:28,885 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:28,986 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:28,987 - video_behavior_detector - INFO - 检测到left手确认的抓取物品行为
+2026-09-10 16:41:29,186 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:29,384 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.77)
+2026-09-10 16:41:29,385 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:29,469 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.86)
+2026-09-10 16:41:29,470 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:29,664 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.84)
+2026-09-10 16:41:29,665 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:29,861 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.84)
+2026-09-10 16:41:29,863 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:29,948 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.82)
+2026-09-10 16:41:29,948 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:30,144 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.84)
+2026-09-10 16:41:30,145 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:30,341 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.80)
+2026-09-10 16:41:30,342 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:30,426 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.76)
+2026-09-10 16:41:30,426 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:30,614 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:41:30,616 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:30,822 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:30,909 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:31,109 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:31,295 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:31,296 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:31,426 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:31,678 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:32,013 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:32,231 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.88)
+2026-09-10 16:41:32,432 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.88)
+2026-09-10 16:41:32,518 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.74)
+2026-09-10 16:41:32,714 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.75)
+2026-09-10 16:41:32,916 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.74)
+2026-09-10 16:41:32,999 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.76)
+2026-09-10 16:41:33,189 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.78)
+2026-09-10 16:41:33,393 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.72)
+2026-09-10 16:41:33,486 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.78)
+2026-09-10 16:41:33,682 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.76)
+2026-09-10 16:41:33,878 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:33,879 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.78)
+2026-09-10 16:41:33,964 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.82)
+2026-09-10 16:41:34,156 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.83)
+2026-09-10 16:41:34,360 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.83)
+2026-09-10 16:41:34,443 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.83)
+2026-09-10 16:41:34,641 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.84)
+2026-09-10 16:41:34,838 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.84)
+2026-09-10 16:41:34,928 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.84)
+2026-09-10 16:41:35,120 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.84)
+2026-09-10 16:41:35,310 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.80)
+2026-09-10 16:41:35,396 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.79)
+2026-09-10 16:41:35,579 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.84)
+2026-09-10 16:41:35,775 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.89)
+2026-09-10 16:41:35,864 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.77)
+2026-09-10 16:41:36,062 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.73)
+2026-09-10 16:41:36,253 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:36,255 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.80)
+2026-09-10 16:41:36,332 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.80)
+2026-09-10 16:41:36,536 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.85)
+2026-09-10 16:41:36,728 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:36,826 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:37,020 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:37,209 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.87)
+2026-09-10 16:41:37,292 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.82)
+2026-09-10 16:41:37,492 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:37,727 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 39.2, 右手臂角度: 8.9)
+2026-09-10 16:41:37,728 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.87)
+2026-09-10 16:41:38,068 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:41:38,069 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:38,288 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:38,415 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.79)
+2026-09-10 16:41:38,657 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.79)
+2026-09-10 16:41:38,889 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:39,033 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.80)
+2026-09-10 16:41:39,264 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 50.3, 右手臂角度: 26.3)
+2026-09-10 16:41:39,264 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.76)
+2026-09-10 16:41:40,523 - video_behavior_detector - INFO - 连续多帧未检测到关键点，尝试重新初始化姿态检测器
+2026-09-10 16:41:40,534 - video_behavior_detector - INFO - 姿态检测器初始化成功
+2026-09-10 16:41:40,962 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 51.1, 右手臂角度: 10.3)
+2026-09-10 16:41:40,963 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.79)
+2026-09-10 16:41:41,164 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 51.1, 右手臂角度: 10.0)
+2026-09-10 16:41:41,164 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.75)
+2026-09-10 16:41:41,391 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 54.1, 右手臂角度: 12.1)
+2026-09-10 16:41:41,392 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.77)
+2026-09-10 16:41:41,524 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 52.3, 右手臂角度: 27.1)
+2026-09-10 16:41:41,525 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.77)
+2026-09-10 16:41:41,773 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 54.4, 右手臂角度: 6.5)
+2026-09-10 16:41:41,774 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.80)
+2026-09-10 16:41:42,006 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:42,008 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 53.7, 右手臂角度: 18.9)
+2026-09-10 16:41:42,008 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.76)
+2026-09-10 16:41:42,093 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 54.9, 右手臂角度: 3.2)
+2026-09-10 16:41:42,094 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.80)
+2026-09-10 16:41:42,298 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 53.1, 右手臂角度: 4.4)
+2026-09-10 16:41:42,299 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.81)
+2026-09-10 16:41:42,486 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 52.6, 右手臂角度: 13.6)
+2026-09-10 16:41:42,486 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.81)
+2026-09-10 16:41:42,566 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 51.3, 右手臂角度: 13.6)
+2026-09-10 16:41:42,567 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.81)
+2026-09-10 16:41:42,793 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 51.6, 右手臂角度: 4.4)
+2026-09-10 16:41:42,794 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.74)
+2026-09-10 16:41:42,988 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 51.0, 右手臂角度: 4.6)
+2026-09-10 16:41:42,989 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.78)
+2026-09-10 16:41:43,082 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 52.1, 右手臂角度: 3.1)
+2026-09-10 16:41:43,082 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.75)
+2026-09-10 16:41:43,271 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 50.2, 右手臂角度: 3.5)
+2026-09-10 16:41:43,272 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.79)
+2026-09-10 16:41:43,458 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 50.9, 右手臂角度: 11.3)
+2026-09-10 16:41:43,458 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.79)
+2026-09-10 16:41:43,537 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 50.0, 右手臂角度: 1.2)
+2026-09-10 16:41:43,537 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.77)
+2026-09-10 16:41:43,732 - video_behavior_detector - INFO - 检测到异常手臂姿势 (左手臂角度: 48.0, 右手臂角度: 26.4)
+2026-09-10 16:41:43,733 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.78)
+2026-09-10 16:41:43,925 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.81)
+2026-09-10 16:41:44,010 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.78)
+2026-09-10 16:41:44,199 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.81)
+2026-09-10 16:41:44,393 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:44,394 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.79)
+2026-09-10 16:41:44,482 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.79)
+2026-09-10 16:41:44,691 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.81)
+2026-09-10 16:41:44,883 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.81)
+2026-09-10 16:41:44,967 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.88)
+2026-09-10 16:41:45,162 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:45,359 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:45,443 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:45,643 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:45,880 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:45,999 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:46,433 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:47,048 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:47,633 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:47,728 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.82)
+2026-09-10 16:41:47,913 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.67)
+2026-09-10 16:41:49,507 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:49,508 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.69)
+2026-09-10 16:41:49,592 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.73)
+2026-09-10 16:41:49,784 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.75)
+2026-09-10 16:41:49,967 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.75)
+2026-09-10 16:41:50,052 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.73)
+2026-09-10 16:41:50,253 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.67)
+2026-09-10 16:41:50,444 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.67)
+2026-09-10 16:41:50,567 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.71)
+2026-09-10 16:41:51,132 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.67)
+2026-09-10 16:41:51,573 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.69)
+2026-09-10 16:41:52,174 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:53,565 - video_behavior_detector - INFO - 连续多帧未检测到关键点，尝试重新初始化姿态检测器
+2026-09-10 16:41:53,575 - video_behavior_detector - INFO - 姿态检测器初始化成功
+2026-09-10 16:41:53,844 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:54,178 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:54,365 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:54,556 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:41:55,196 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:56,723 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.67)
+2026-09-10 16:41:57,369 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.75)
+2026-09-10 16:41:57,559 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:41:57,561 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.79)
+2026-09-10 16:41:57,644 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.73)
+2026-09-10 16:41:57,830 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.73)
+2026-09-10 16:41:58,027 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.71)
+2026-09-10 16:41:58,645 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.73)
+2026-09-10 16:41:58,849 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.73)
+2026-09-10 16:41:59,037 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.75)
+2026-09-10 16:41:59,115 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.75)
+2026-09-10 16:41:59,318 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.73)
+2026-09-10 16:41:59,529 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.67)
+2026-09-10 16:42:00,062 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:42:00,660 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.70)
+2026-09-10 16:42:00,982 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.82)
+2026-09-10 16:42:01,322 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.73)
+2026-09-10 16:42:01,775 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:01,909 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.78)
+2026-09-10 16:42:02,106 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.75)
+2026-09-10 16:42:02,310 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.83)
+2026-09-10 16:42:02,396 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:02,590 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.83)
+2026-09-10 16:42:02,782 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:42:02,788 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:02,868 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:03,061 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:03,264 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:03,346 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:03,785 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:03,879 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:04,070 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:04,252 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:04,374 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:04,375 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:04,573 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:04,573 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:04,764 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:04,842 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:05,039 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:05,039 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:05,223 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:42:05,225 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:05,226 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:05,318 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:05,319 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:05,553 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:05,796 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:05,918 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:06,109 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:06,306 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:06,400 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.75)
+2026-09-10 16:42:06,588 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.77)
+2026-09-10 16:42:06,791 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.67)
+2026-09-10 16:42:07,314 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.78)
+2026-09-10 16:42:07,402 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.89)
+2026-09-10 16:42:07,611 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.89)
+2026-09-10 16:42:07,804 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:42:07,805 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.82)
+2026-09-10 16:42:07,897 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:08,310 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.69)
+2026-09-10 16:42:08,829 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:08,912 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.73)
+2026-09-10 16:42:09,107 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.73)
+2026-09-10 16:42:09,644 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:09,843 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:09,931 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:10,123 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:10,316 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:42:10,317 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:10,410 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.18)
+2026-09-10 16:42:10,412 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:10,627 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.51)
+2026-09-10 16:42:10,627 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:10,829 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:10,829 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 2.00)
+2026-09-10 16:42:10,830 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:10,908 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:10,909 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 2.18)
+2026-09-10 16:42:10,909 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:11,154 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:11,155 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 3.03)
+2026-09-10 16:42:11,155 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:11,345 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:11,346 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 2.86)
+2026-09-10 16:42:11,346 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:11,435 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:11,436 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 2.57)
+2026-09-10 16:42:11,436 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:11,632 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:11,633 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.79)
+2026-09-10 16:42:11,633 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:11,821 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:11,822 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.85)
+2026-09-10 16:42:11,822 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:11,909 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:11,910 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.57)
+2026-09-10 16:42:11,910 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:12,107 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:12,107 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.08)
+2026-09-10 16:42:12,109 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:12,309 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:12,310 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.14)
+2026-09-10 16:42:12,310 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:12,394 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:12,394 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.09)
+2026-09-10 16:42:12,395 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:12,595 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:12,596 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.11)
+2026-09-10 16:42:12,596 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:12,791 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:42:12,792 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:12,792 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.09)
+2026-09-10 16:42:12,793 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:12,868 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:12,869 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.08)
+2026-09-10 16:42:12,869 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:13,063 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:13,064 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.02)
+2026-09-10 16:42:13,064 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:13,262 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:13,263 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.06)
+2026-09-10 16:42:13,263 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:13,352 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:13,353 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.04)
+2026-09-10 16:42:13,353 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:13,547 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:13,547 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.04)
+2026-09-10 16:42:13,547 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:13,750 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:13,751 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.01)
+2026-09-10 16:42:13,752 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:13,835 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:13,836 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 1.00)
+2026-09-10 16:42:13,836 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:14,027 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:14,027 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.92)
+2026-09-10 16:42:14,029 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:14,220 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:14,221 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.95)
+2026-09-10 16:42:14,221 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:14,314 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:14,314 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.97)
+2026-09-10 16:42:14,315 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:14,501 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:14,502 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.90)
+2026-09-10 16:42:14,502 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:14,691 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:14,692 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.88)
+2026-09-10 16:42:14,692 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:14,771 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:14,772 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.88)
+2026-09-10 16:42:14,773 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:14,966 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:14,966 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.88)
+2026-09-10 16:42:14,967 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:15,163 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:42:15,164 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:15,165 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.86)
+2026-09-10 16:42:15,165 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:15,250 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:15,250 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.85)
+2026-09-10 16:42:15,251 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:15,443 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:15,443 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.85)
+2026-09-10 16:42:15,443 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:15,625 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:15,626 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.86)
+2026-09-10 16:42:15,626 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:15,703 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:15,704 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.85)
+2026-09-10 16:42:15,704 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:15,904 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:15,905 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.87)
+2026-09-10 16:42:15,905 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:16,098 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:16,099 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.87)
+2026-09-10 16:42:16,099 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:16,194 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:16,195 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.87)
+2026-09-10 16:42:16,195 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:16,388 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:16,388 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.86)
+2026-09-10 16:42:16,389 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:16,582 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:16,582 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.86)
+2026-09-10 16:42:16,582 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:16,583 - video_behavior_detector - INFO - 检测到left手确认的伸展动作
+2026-09-10 16:42:16,669 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:16,669 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.85)
+2026-09-10 16:42:16,670 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:16,670 - video_behavior_detector - INFO - 检测到left手确认的抓取物品行为
+2026-09-10 16:42:16,862 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:16,863 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.85)
+2026-09-10 16:42:16,863 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:16,863 - video_behavior_detector - INFO - 检测到left手确认的伸展动作
+2026-09-10 16:42:17,061 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:17,062 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.85)
+2026-09-10 16:42:17,062 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:17,145 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:17,145 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.85)
+2026-09-10 16:42:17,146 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:17,339 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:17,339 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.90)
+2026-09-10 16:42:17,339 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:17,522 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:42:17,524 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:17,524 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.94)
+2026-09-10 16:42:17,524 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:17,611 - video_behavior_detector - INFO - 检测到交叉手臂姿势
+2026-09-10 16:42:17,611 - video_behavior_detector - INFO - 检测到可疑蹲姿 (比例: 0.97)
+2026-09-10 16:42:17,612 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:18,015 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.75)
+2026-09-10 16:42:18,016 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.75)
+2026-09-10 16:42:18,016 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.75)
+2026-09-10 16:42:18,100 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.77)
+2026-09-10 16:42:18,100 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.77)
+2026-09-10 16:42:18,101 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.77)
+2026-09-10 16:42:18,307 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.67)
+2026-09-10 16:42:18,308 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.67)
+2026-09-10 16:42:18,308 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.67)
+2026-09-10 16:42:18,509 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.71)
+2026-09-10 16:42:18,510 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.71)
+2026-09-10 16:42:18,510 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.71)
+2026-09-10 16:42:18,609 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.78)
+2026-09-10 16:42:18,609 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.78)
+2026-09-10 16:42:18,610 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.78)
+2026-09-10 16:42:18,807 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.70)
+2026-09-10 16:42:18,808 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.70)
+2026-09-10 16:42:18,808 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.70)
+2026-09-10 16:42:19,002 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.68)
+2026-09-10 16:42:19,003 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.68)
+2026-09-10 16:42:19,003 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.68)
+2026-09-10 16:42:19,091 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.72)
+2026-09-10 16:42:19,091 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.72)
+2026-09-10 16:42:19,092 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.72)
+2026-09-10 16:42:19,286 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.69)
+2026-09-10 16:42:19,287 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.69)
+2026-09-10 16:42:19,288 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.69)
+2026-09-10 16:42:19,491 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.71)
+2026-09-10 16:42:19,492 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.71)
+2026-09-10 16:42:19,493 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.71)
+2026-09-10 16:42:19,582 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.69)
+2026-09-10 16:42:19,583 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.69)
+2026-09-10 16:42:19,583 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.69)
+2026-09-10 16:42:19,787 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.69)
+2026-09-10 16:42:19,788 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.69)
+2026-09-10 16:42:19,788 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.69)
+2026-09-10 16:42:19,992 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:42:19,994 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.73)
+2026-09-10 16:42:19,994 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.73)
+2026-09-10 16:42:19,995 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.73)
+2026-09-10 16:42:19,995 - video_behavior_detector - INFO - 检测到left手确认的伸展动作
+2026-09-10 16:42:20,295 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.75)
+2026-09-10 16:42:20,295 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.75)
+2026-09-10 16:42:20,296 - video_behavior_detector - INFO - 检测到left手确认的抓取物品行为
+2026-09-10 16:42:20,296 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.75)
+2026-09-10 16:42:20,297 - video_behavior_detector - INFO - 检测到left手确认的伸展动作
+2026-09-10 16:42:20,576 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.83)
+2026-09-10 16:42:20,576 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.83)
+2026-09-10 16:42:20,577 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.83)
+2026-09-10 16:42:20,771 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.78)
+2026-09-10 16:42:20,772 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.78)
+2026-09-10 16:42:20,977 - video_behavior_detector - INFO - 检测到left手确认的伸展动作
+2026-09-10 16:42:21,063 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.80)
+2026-09-10 16:42:21,064 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.80)
+2026-09-10 16:42:21,261 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.67)
+2026-09-10 16:42:21,715 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:21,716 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.90)
+2026-09-10 16:42:21,917 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.67)
+2026-09-10 16:42:21,918 - video_behavior_detector - INFO - 检测到异常头部运动: 向左侧看 (置信度: 0.67)
+2026-09-10 16:42:22,002 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:22,002 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:22,403 - video_behavior_detector - INFO - 环境检测: 非零售环境
+2026-09-10 16:42:22,406 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:22,407 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:22,493 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:22,494 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:22,889 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:22,890 - video_behavior_detector - INFO - 检测到left手确认的伸展动作
+2026-09-10 16:42:22,890 - video_behavior_detector - INFO - 检测到right手确认的伸展动作
+2026-09-10 16:42:22,890 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:22,891 - video_behavior_detector - INFO - 检测到right手确认的抓取物品行为
+2026-09-10 16:42:22,975 - video_behavior_detector - INFO - 检测到right手确认的伸展动作
+2026-09-10 16:42:23,456 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:23,456 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:23,931 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:23,932 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:23,932 - video_behavior_detector - INFO - 检测到right手确认的伸展动作
+2026-09-10 16:42:24,130 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:24,130 - video_behavior_detector - INFO - 检测到left手确认的伸展动作
+2026-09-10 16:42:24,131 - video_behavior_detector - INFO - 检测到异常头部运动: 向右侧看 (置信度: 0.90)
+2026-09-10 16:42:24,171 - video_behavior_detector - INFO - 视频处理完成，总共处理714帧
+2026-09-10 16:42:24,171 - video_behavior_detector - INFO - 行为统计: []
+2026-09-10 17:05:04,006 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:05:37,000 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:05:38,335 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:05:39,654 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:08:25,409 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:03,401 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:04,724 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:06,032 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:07,377 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:08,730 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:10,034 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:26,902 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:28,232 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:29,340 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:29,544 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:10:32,047 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:46,788 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:48,135 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:48,968 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:49,531 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:50,828 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:51,360 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:51,823 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:52,199 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:53,510 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:53,696 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:53,802 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:53,907 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:54,045 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:54,148 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:54,255 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:54,363 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:54,467 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:54,601 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:54,707 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:54,811 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:55,101 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:56,387 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:57,688 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:58,034 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:11:59,033 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:17,082 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:17,188 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:18,011 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:18,467 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:18,578 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:19,062 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:19,338 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:19,468 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:19,577 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:19,683 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:19,790 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:19,895 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:20,029 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:25,557 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:25,663 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:25,794 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:25,896 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:26,008 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:26,194 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:26,410 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:26,598 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:26,812 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:26,999 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:27,543 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:27,648 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:27,774 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:27,884 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:28,260 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:12:28,792 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:15:00,935 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:15:01,162 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:15:01,432 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:15:02,092 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:15:02,202 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:15:02,587 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:15:03,950 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:10,038 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:10,336 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:10,441 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:10,544 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:10,651 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:10,780 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:10,887 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:10,992 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:11,131 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:29,211 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:34,551 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:35,852 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:37,151 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:41,109 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:43,731 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:17:45,024 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:05,057 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:06,345 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:07,637 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:08,918 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:11,507 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:12,818 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:14,130 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:15,404 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:16,698 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:26,234 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:28,341 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:28,446 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:28,555 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:28,664 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:29,253 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:18:29,363 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:22,055 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:23,362 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:24,705 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:25,999 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:32,627 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:33,917 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:35,206 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:36,486 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:37,792 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:40,458 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:41,738 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:43,006 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:44,289 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:45,575 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:46,867 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:48,197 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:49,487 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:50,771 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:52,051 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:53,337 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:54,615 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:55,910 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:57,237 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:58,567 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:20:59,866 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:02,496 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:27,194 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:28,507 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:29,800 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:31,107 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:32,399 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:33,670 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:34,949 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:37,552 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:38,840 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:40,126 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:41,426 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:42,755 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:44,036 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:45,328 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:46,611 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:47,913 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:49,206 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:50,493 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:51,773 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:53,073 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:54,366 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:55,657 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:56,956 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:58,250 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:21:59,546 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:00,849 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:02,141 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:03,425 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:04,700 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:07,409 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:08,706 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:10,038 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:11,344 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:12,648 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:13,952 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:15,256 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:16,543 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:17,836 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:19,132 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:20,416 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:21,706 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:22,996 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:24,284 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:25,583 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:26,882 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:28,181 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:29,512 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:30,812 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:32,142 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:33,469 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:49,356 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:50,680 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:51,993 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:53,307 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:54,610 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:55,924 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:57,233 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:58,527 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:22:59,816 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:01,127 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:02,432 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:03,743 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:05,046 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:07,736 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:09,043 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:10,352 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:11,666 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:12,974 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:14,268 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:15,556 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:16,824 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:18,190 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:19,563 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:20,925 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:22,311 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:23,697 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:25,101 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:26,486 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:27,840 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:29,173 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:30,509 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:31,853 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:33,167 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:34,533 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:35,867 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:37,208 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:38,528 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:39,846 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:41,165 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:42,490 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:43,852 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:45,181 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:46,508 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:47,848 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:49,192 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:50,508 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:51,867 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:53,217 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:54,576 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:55,911 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:57,244 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:58,560 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:23:59,885 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:24:01,224 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:24:02,566 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:24:06,630 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:24:07,990 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:24:09,320 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:24:10,647 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:24:11,999 - video_behavior_detector - ERROR - 头部动作检测错误: 0
+2026-09-10 17:24:13,370 - video_behavior_detector - ERROR - 头部动作检测错误: 0
